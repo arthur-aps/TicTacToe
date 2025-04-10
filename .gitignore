@@ -1,0 +1,23 @@
+# arquivos de sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# pastas de configurações de IDEs e editores
+.vscode/
+.idea/
+
+# arquivos de log ou temporários
+*.log
+*.tmp
+
+# sistema operacional e arquivos ocultos
+desktop.ini
+ehthumbs.db
+
+# backup
+*~
+*.bak
+
+# build
+dist/
+build/
